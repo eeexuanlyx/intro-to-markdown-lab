@@ -18,7 +18,7 @@ const functionName = (params) => {
 
 **_Example_**:
 
-```
+```Javascript
 const greet = (name) => {
 console.log("Hello, " + name + "!");
 }
@@ -40,7 +40,7 @@ Functions can process data input and output a value using the _return_ keyword.
 
 **_Example_**:
 
-```
+```Javascript
 const addNums = (numA, numB) => {
 return numA + numB
 }
